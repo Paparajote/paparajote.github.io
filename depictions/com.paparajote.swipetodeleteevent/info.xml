@@ -1,6 +1,6 @@
 <package>
 	<id>com.paparajote.swipetodeleteevent</id>
-	<name>Full Package</name>
+	<!-- <name>Full Package</name> -->
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
@@ -10,36 +10,28 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Swipe to delete event in calendar (month-events view)
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>IMG_3395.PNG</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>IMG_3396.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
+	<!--<links>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
-	</links>
+	</links>-->
 </package>
