@@ -1,6 +1,6 @@
 <package>
 	<id>com.paparajote.swipetodeleteevent</id>
-	<!-- <name>Full Package</name> -->
+	<name>SwipeToDeleteEvent</name>
 	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
